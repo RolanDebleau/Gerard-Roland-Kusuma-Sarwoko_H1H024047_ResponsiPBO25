@@ -22,6 +22,7 @@ Teknologi yang Digunakan
 - Font: Press Start 2P (Retro Gaming Style)
 
 Penerapan 4 Pilar OOP
+```PHP
 1. Encapsulation (Enkapsulasi) 
 class Pokemon {
     protected $name;      // Data disembunyikan
@@ -164,6 +165,7 @@ $charmander->getTrainingMultiplier('mental focus'); // 0.6x (TERBURUK)
 $pikachu->getTrainingMultiplier('speed');     // 1.8x (TERBAIK)
 $pikachu->getTrainingMultiplier('defense');   // 0.6x (TERBURUK)
 Kesimpulan: Method yang sama (`getTrainingMultiplier`), tapi behavior berbeda tergantung tipe Pokémon. Ini adalah Polymorphism!
+```
 
 Video Demonstrasi
 ![Demo](https://imgur.com/gallery/responsi-pbo25-NaHwWxv)
