@@ -170,6 +170,7 @@ Kesimpulan: Method yang sama (`getTrainingMultiplier`), tapi behavior berbeda te
 Video Demonstrasi
 ![Demo](https://i.imgur.com/gT4XSHG.gif)
 
+
 Lisensi :
 Proyek ini dibuat untuk keperluan Responsi Praktikum PBO Teknik Komputer 2025/2026.
 © 2025 - PokéCare Simulator by RolanDebleau
