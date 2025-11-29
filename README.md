@@ -168,7 +168,7 @@ Kesimpulan: Method yang sama (`getTrainingMultiplier`), tapi behavior berbeda te
 ```
 
 ### Video Demonstrasi
-![Demo](https://i.imgur.com/gT4XSHG.gif)
+<video src="https://i.imgur.com/gT4XSHG.mp4" controls width="600"></video>
 
 Lisensi :
 Proyek ini dibuat untuk keperluan Responsi Praktikum PBO Teknik Komputer 2025/2026.
