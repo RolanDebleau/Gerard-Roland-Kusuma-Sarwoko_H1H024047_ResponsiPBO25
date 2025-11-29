@@ -23,7 +23,6 @@ Teknologi yang Digunakan
 
 Penerapan 4 Pilar OOP
 1. Encapsulation (Enkapsulasi) 
-```php
 class Pokemon {
     protected $name;      // Data disembunyikan
     protected $level;     // Hanya bisa diakses via getter/setter
