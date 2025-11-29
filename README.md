@@ -169,7 +169,7 @@ Kesimpulan: Method yang sama (`getTrainingMultiplier`), tapi behavior berbeda te
 
 ### Video Demonstrasi
 
-![Video Demonstrasi](https://i.imgur.com/OILug48.gif)
+![Video Demonstrasi](./assets/demo.gif)
 
 Lisensi :
 Proyek ini dibuat untuk keperluan Responsi Praktikum PBO Teknik Komputer 2025/2026.
