@@ -167,7 +167,7 @@ $pikachu->getTrainingMultiplier('defense');   // 0.6x (TERBURUK)
 Kesimpulan: Method yang sama (`getTrainingMultiplier`), tapi behavior berbeda tergantung tipe Pokémon. Ini adalah Polymorphism!
 
 Video Demonstrasi
-![Demo](https://imgur.com/a/NaHwWxv)
+![Demo](https://imgur.com/gallery/responsi-pbo25-NaHwWxv)
 
 Lisensi :
 Proyek ini dibuat untuk keperluan Responsi Praktikum PBO Teknik Komputer 2025/2026.
